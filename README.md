@@ -5,9 +5,9 @@
 
 Repository of meshes and videos of all simulations performed in the Computing in Cardiology 2021 conference paper:
 
-Mesh .stl files can be found in the /mesh_files folder.
+Mesh .stl files can be found in the **/mesh_files** folder.
 
-Videos of results can be found split into the folders for the atrial fibrillation (AF) and sinus rhythm (SR) cases:
+Videos of results can be found split into the folders for the atrial fibrillation (AF) and sinus rhythm (SR) cases for the four LA appendage shapes:
 - Chicken Wing
 - Broccoli
 - Windsock
